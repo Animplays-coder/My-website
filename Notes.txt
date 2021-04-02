@@ -1,0 +1,54 @@
+Java Notepad
+
+Variables
+-These things are containers with data stored and can be assigned any name which 
+follows these rules and can have any thing stored in it String,Number
+
+var num1 = something
+    Name 
+     of
+    Var
+
+Data Types
+-Strings - Alphabets
+-Numbers - Fckig No. 1331231
+
+Operators
+- +,-,/,*
+
+Experssion
+- Anything which is having a something and an operator is an expression
+
+Undefined
+-A var has been declared but has not been assigned
+
+Null
+-Assigend to a var as nothin
+
+JS numbers Functions
+-toString() Number as input and returns a string
+-parseInt() String No. input and output a no. (parseInt Gives an integer only)
+-toFixed() Rounds the input which is a no.
+
+JS string functions
+-Lenght of string (var name.lenght())
+-Find a word inside a script (var name.indexOf(the word you are searching))
+-find a word inside a script the last time it is repeated (var name.lastindexOf(the word you are searching))
+-Get part of our string slice(start and end of the word) (var name.slice())
+-Get subscript of a string (var name.substr(startpos, lenght)
+-Convert the string to UPPER CASE (var name.toUpperCase())
+-Convert the string to lower case (var name.toLowerCase())
+-It merges two or more strings toghether (var name1.cancat(var name2))
+-We can also use "+" to merge two or more strings together
+-Trim removes extra spaces in a string (var name.trim())
+-Takes the position as an argument and returns the character at that position (var name.charAt(pos))
+-Split - Splits a string on basis of arguments passed
+since split is hard to write down Screenshot https://prnt.sc/tscdy5
+					     https://prnt.sc/tsce91
+
+
+If-Else Statements
+Hard again to write so screenshot 1
+
+Switch Statement
+Screenshot 2
